@@ -45,6 +45,10 @@ published: true
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/cRr5pdUDSo5Hkh" width="640" height="480" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
+<br> Краткое лирическое отступление, или почему я хочу рабоать в биотехнологическом секторе.
+<iframe src="https://drive.google.com/file/d/0B9i6rNV6u9XuOHpubWlQcVBQMmc/preview" width="640" height="480"></iframe>
+
+
 <br> Я заранее благодарю Вас за любую реакцию на отражение моего мира. <br>
 <br> С уважением, Федоренко Андрей
 <br> **Моб.:**             [+7(989)1260026](tel:+79891260026)
