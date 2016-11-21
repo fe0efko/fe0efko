@@ -47,7 +47,7 @@ published: true
 
 <br> Я заранее благодарю Вас за любую реакцию на отражение моего мира. <br>
 <br> С уважением, Федоренко Андрей
-<br> **Моб.:**             [+7(900)2336666](tel:+79002336666)
+<br> **Моб.:**             [+7(989)1260026](tel:+79891260026)
 <br> **Электронная почта** [aqvalite@gmail.com](malito:aqvalite@gmail.com)
 <br> **Социум:**           [LinkedIn/AndreyFe](https://www.linkedin.com/in/andreyfe) ; [Facebook/AndreyFe](https://www.facebook.com/AndreyFe)
 
