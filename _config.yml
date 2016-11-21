@@ -1,0 +1,10 @@
+# Site settings
+title: For EFKO Group
+tag_text: ЭФКО & Федоренко
+description: Resume for EFKO Group
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
